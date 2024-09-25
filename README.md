@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del modulo2 del prepcourse de Henry
+Fabio Agustin Soto Madrid
+Este proyecto es una prueba de como crear un repositorio y clonarlo en mi escritorio
